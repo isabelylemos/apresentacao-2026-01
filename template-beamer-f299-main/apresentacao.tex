@@ -196,10 +196,6 @@ Meio de Inteligência Artificial}
 \begin{frame}[t]{Estado da Arte}
   \scriptsize
   
-  Análise de \textbf{soluções existentes} no mercado, comparação de \textbf{tecnologias} e abordagens, identificação de \textbf{gaps} e oportunidades, referências bibliográficas e \textbf{trabalhos relacionados}, tendências e \textbf{inovações} na área.
-  
-  \vspace{0.3cm}
-  
   \begin{table}
     \centering
     \tiny
@@ -207,11 +203,11 @@ Meio de Inteligência Artificial}
       \hline
       \textbf{Título/Autores} & \textbf{Objetivo} & \textbf{Método} & \textbf{Resultados} & \textbf{Limitações} & \textbf{Gap} \\
       \hline
-      Classificação de discurso de ódio com Transformers — Silva et al. (2024) & Identificar discurso de ódio em português & Fine-tuning de Transformer com validação cruzada 5-fold & F1 = 0,91, superior a SVM/CNN & Baixo desempenho em textos curtos & Sem explicabilidade e sem tempo real \\
+      Deep learning beehive monitoring system for early detection of the varroa mite — Voudiotis et al. (2022) & Identificar o ácaro \textit{Varroa destructor} precocemente nas colmeias. & Duas câmeras (5 MP), microprocessador ARM e modelo de CNN pré-treinado (modos online/offline). & FPrecisão de 77\% a 86\% no algoritmo; modo online 3 a 4 vezes mais rápido. & Modo online exige custos com dados; modo offline teve problemas de pareamento Bluetooth. & Uso de modelos pré-treinados e dependência de hardware embarcado de alto custo (ARM quad-core). \\
       \hline
-      Detecção de pragas agrícolas por CNN — Oliveira e Santos (2023) & Reconhecer pragas em imagens de campo & CNN profunda com transferência de aprendizado & Acurácia = 94\% & Sensível à iluminação/oclusão & Não executa em dispositivos de borda \\
+      Desarrollo de un sistema de reconocimiento y conteo del parásito Varroa destructor en colmenas para probar efectividad de tratamientos — Hernández (2020) & Reconhecer pragas em imagens de campo & CNN profunda com transferência de aprendizado & Acurácia = 94\% & Sensível à iluminação/oclusão & Não executa em dispositivos de borda \\
       \hline
-      Detecção de intrusão com LSTM Autoencoder — Almeida et al. (2022) & Detectar anomalias no tráfego de rede & Autoencoder LSTM para reconstrução de séries temporais & Detecção = 96\% com menos falsos positivos & Alto custo computacional & Sem resposta automática ou interpretabilidade \\
+      Apisot: An iot function aggregation mechanism for detecting varroa infestation in apis mellifera species — Camayo et al. (2024) & Detectar anomalias no tráfego de rede & Autoencoder LSTM para reconstrução de séries temporais & Detecção = 96\% com menos falsos positivos & Alto custo computacional & Sem resposta automática ou interpretabilidade \\
       \hline
     \end{tabular}
   \end{table}
@@ -270,13 +266,12 @@ Meio de Inteligência Artificial}
 
 {
 \usebackgroundtemplate{%
-  \includegraphics[width=\paperwidth,height=\paperheight]{imgs/img_006.jpg}%
+  \includegraphics[width=\paperwidth,height=\paperheight]{imgs/fluxo.png}%
 }
 \begin{frame}[t]{Metodologia}
   
   \scriptsize
-  Apresentação, em formato de fluxograma, dos principais processos implementados no projeto, evidenciando as tecnologias empregadas, tais como Internet das Coisas (IoT), Inteligência Artificial (IA) e Banco de Dados.
-
+  
 \end{frame}
 }
 
