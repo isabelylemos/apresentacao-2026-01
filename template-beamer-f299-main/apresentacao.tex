@@ -151,38 +151,31 @@ Meio de Inteligência Artificial}
 \end{frame}
 
 \section{Pitch}
-{
-\usebackgroundtemplate{%
-  \includegraphics[width=\paperwidth,height=\paperheight]{imgs/img_001.jpg}%
-}
+
 \begin{frame}[b]{Pitch}
   \begin{itemize}
-    \item \parbox{0.60\textwidth}{Apresentação concisa e objetiva do projeto}
-    \item \parbox{0.60\textwidth}{Destaque do \textbf{problema} que o projeto resolve}
-    \item \parbox{0.60\textwidth}{Proposta de \textbf{valor} e diferenciais da solução}
-    \item \parbox{0.60\textwidth}{Público-alvo e \textbf{impacto} esperado}
-    \item \parbox{0.60\textwidth}{Visão geral das \textbf{tecnologias} utilizadas}
+    \item \parbox{0.60\textwidth}{O \textbf{MiteScan} é um sistema inteligente para monitoramento de colmeias, que utiliza técnicas de \textbf{Aprendizado de Máquina} e \textbf{Processamento de Imagens} para detectar precocemente a presença do ácaro \textit{Varroa destructor}.  
+}
+
   \end{itemize}
   
   \vfill
   
-  {\fontsize{4}{5}\selectfont\textit{Fonte: Seu Nome}\hfill\textcolor{white}{Imagem: Descrição da imagem}}
 \end{frame}
-}
+
+
 
 \section{Problematização}
 
 {
 \usebackgroundtemplate{%
-  \includegraphics[width=\paperwidth,height=\paperheight]{imgs/img_002.jpg}%
+  \includegraphics[width=\paperwidth,height=\paperheight]{imgs/abelhavarroa.jpeg}%
 }
 \begin{frame}[b]{Problematização}
   \begin{itemize}
-    \item \parbox{0.60\textwidth}{Contextualização do \textbf{problema} identificado}
-    \item \parbox{0.60\textwidth}{Análise das \textbf{causas} e consequências}
-    \item \parbox{0.60\textwidth}{Impacto no público-alvo ou na área de atuação}
-    \item \parbox{0.60\textwidth}{Justificativa da \textbf{relevância} do projeto}
-    \item \parbox{0.60\textwidth}{Lacunas nas soluções existentes}
+    \item O ácaro \textit{Varroa destructor} é uma das principais ameaças às \\colônias de abelhas, causando enfraquecimento e morte das colmeias.
+    \item A inspeção manual é demorada, sujeita a erros e depende da \\experiência do apicultor.
+    \item O \textbf{MiteScan} busca automatizar a detecção do parasita, reduzindo \\perdas e melhorando o manejo apícola.
   \end{itemize}
   
   \vfill
@@ -203,11 +196,26 @@ Meio de Inteligência Artificial}
       \hline
       \textbf{Título/Autores} & \textbf{Objetivo} & \textbf{Método} & \textbf{Resultados} & \textbf{Limitações} & \textbf{Gap} \\
       \hline
-      Deep learning beehive monitoring system for early detection of the varroa mite — Voudiotis et al. (2022) & Identificar o ácaro \textit{Varroa destructor} precocemente nas colmeias. & Duas câmeras (5 MP), microprocessador ARM e modelo de CNN pré-treinado (modos online/offline). & FPrecisão de 77\% a 86\% no algoritmo; modo online 3 a 4 vezes mais rápido. & Modo online exige custos com dados; modo offline teve problemas de pareamento Bluetooth. & Uso de modelos pré-treinados e dependência de hardware embarcado de alto custo (ARM quad-core). \\
+      Deep learning beehive monitoring system for early detection of the varroa mite — Voudiotis et al. (2022) & 
+            Identificar o ácaro \textit{Varroa destructor} precocemente nas colmeias. & 
+            Duas câmeras (5 MP), microprocessador ARM e modelo de CNN pré-treinado (modos online/offline). & 
+            Precisão de 77\% a 86\% no algoritmo; modo online 3 a 4 vezes mais rápido. & 
+            Modo online exige custos com dados; modo offline teve problemas de pareamento Bluetooth. & 
+            Uso de modelos pré-treinados e dependência de hardware embarcado de alto custo (ARM quad-core). \\
       \hline
-      Desarrollo de un sistema de reconocimiento y conteo del parásito Varroa destructor en colmenas para probar efectividad de tratamientos — Hernández (2020) & Reconhecer pragas em imagens de campo & CNN profunda com transferência de aprendizado & Acurácia = 94\% & Sensível à iluminação/oclusão & Não executa em dispositivos de borda \\
+      Desarrollo de un sistema de reconocimiento y conteo del parásito Varroa destructor en colmenas para probar efectividad de tratamientos — Hernández (2020) & 
+            Processar imagens carregadas via web para identificar pontos de infestação. & 
+            Bibliotecas OpenCV e Scikit-learn, além de algoritmos não supervisionados como KMeans e DBScan. & 
+            Praticamente todas as Varroas foram localizadas, mas com baixíssima precisão final. & 
+            Alta taxa de falsos positivos (objetos irrelevantes classificados como Varroa) e fotos de baixa qualidade. & 
+            Falta de uma abordagem de aprendizado supervisionado (Deep Learning) dedicada para evitar falsos positivos. \\
       \hline
-      Apisot: An iot function aggregation mechanism for detecting varroa infestation in apis mellifera species — Camayo et al. (2024) & Detectar anomalias no tráfego de rede & Autoencoder LSTM para reconstrução de séries temporais & Detecção = 96\% com menos falsos positivos & Alto custo computacional & Sem resposta automática ou interpretabilidade \\
+      Apisot: An iot function aggregation mechanism for detecting varroa infestation in apis mellifera species — Camayo et al. (2024) & 
+            Monitorar umidade, temperatura e gases para alertar risco de infestação por Varroa. & 
+            Nós sensores IoT na colmeia, algoritmo multicritério ponderado e rede neural supervisionada. & 
+            Precisão de 99\% no monitoramento e redução de 75\% no consumo de energia da bateria. & 
+            Dificuldades na seleção de componentes e sensibilidade à variabilidade climática externa. & 
+            Não realiza a análise direta por imagens das abelhas, baseando-se apenas em variáveis ambientais indiretas. \\
       \hline
     \end{tabular}
   \end{table}
@@ -215,20 +223,16 @@ Meio de Inteligência Artificial}
 
 \section{Objetivo}
 
-{
-\usebackgroundtemplate{%
-  \includegraphics[width=\paperwidth,height=\paperheight]{imgs/img_004.jpg}%
-}
 \begin{frame}[b]{Objetivo}
   \begin{itemize}
     \item \parbox{0.60\textwidth}{\textbf{Objetivo geral}: Desenvolver um sistema para a identificação precoce da Varroa e monitoramento de umidade e temperatura em colmeias.}
     \item \parbox{0.60\textwidth}{\textbf{Objetivos específicos}:}
     \begin{itemize}
       \item \parbox{0.60\textwidth}{Desenvolver API integrada aos sistemas Mobile e Web;}
-      \item \parbox{0.60\textwidth}{Desenvolver algoritmo de Aprendizado de Máquina e \\Processamento de Imagens;}
+      \item \parbox{0.60\textwidth}{Desenvolver algoritmo de Aprendizado de Máquina e Processamento de Imagens;}
       \item \parbox{0.60\textwidth}{Identificar precocemente o ácaro \textit{Varroa} e alertar o apicultor;}
       \item \parbox{0.60\textwidth}{Monitorar variáveis ambientais e emitir alertas;}
-      \item \parbox{0.60\textwidth}{Cadastrar colmeias, apicultores e consultar níveis de \\temperatura.}
+      \item \parbox{0.60\textwidth}{Cadastrar colmeias, apicultores e consultar níveis de temperatura.}
     \end{itemize}
     \item \parbox{0.60\textwidth}{Resultados esperados e \textbf{entregas}}
     \item \parbox{0.60\textwidth}{Métricas de \textbf{sucesso} do projeto}
@@ -236,51 +240,37 @@ Meio de Inteligência Artificial}
   
   \vfill
   
-  {\fontsize{4}{5}\selectfont\textit{Fonte: Seu Nome}\hfill\textcolor{white}{Imagem: Descrição da imagem}}
 \end{frame}
-}
+
 
 \section{Ferramental}
 
-{
-\usebackgroundtemplate{%
-  \includegraphics[width=\paperwidth,height=\paperheight]{imgs/img_005.jpg}%
-}
+
+
 \begin{frame}[b]{Ferramental}
   \begin{itemize}
     \item \parbox{0.60\textwidth}{\textbf{Linguagens}: Python}
     \item \parbox{0.60\textwidth}{\textbf{Frameworks}: FastAPI}
     \item \parbox{0.60\textwidth}{\textbf{Banco de dados}: Supabase}
     \item \parbox{0.60\textwidth}{\textbf{Infraestrutura e Hardware}: Arduino UNO, ESP8266, Sensor DHT11}
-    \item \parbox{0.60\textwidth}{\textbf{Ferramentas}: PyTorch, Torchvision, Pillow, Matplotlib, Seaborn, \\Scikit-learn}
-    \item \parbox{0.60\textwidth}{\textbf{APIs} e integrações utilizadas: API RESTful (FastAPI), \\Integração IoT-API, Câmera/Interface}
+    \item \parbox{0.60\textwidth}{\textbf{Ferramentas}: PyTorch, Torchvision, Pillow, Matplotlib, Seaborn, Scikit-learn}
+    \item \parbox{0.60\textwidth}{\textbf{APIs} e integrações utilizadas: API RESTful (FastAPI), Integração IoT-API, Câmera/Interface}
   \end{itemize}
   
   \vfill
   
-  {\fontsize{4}{5}\selectfont\textit{Fonte: Seu Nome}\hfill\textcolor{white}{Imagem: Descrição da imagem}}
 \end{frame}
-}
 
-\section{Metodologia}
 
-{
-\usebackgroundtemplate{%
-  \includegraphics[width=\paperwidth,height=\paperheight]{imgs/fluxo.png}%
-}
 \begin{frame}[t]{Metodologia}
-  
-  \scriptsize
-  
+    \begin{center}
+
+        \includegraphics[height=0.8\textheight, keepaspectratio]{imgs/fluxo.png}
+    \end{center}
 \end{frame}
-}
 
 \section{Apresentação Prática}
 
-{
-\usebackgroundtemplate{%
-  \includegraphics[width=\paperwidth,height=\paperheight]{imgs/img_007.jpg}%
-}
 \begin{frame}[b]{Apresentação Prática}
   \begin{itemize}
     \item \parbox{0.60\textwidth}{\textbf{Demonstração} ao vivo do sistema}
@@ -292,16 +282,12 @@ Meio de Inteligência Artificial}
   
   \vfill
   
-  {\fontsize{4}{5}\selectfont\textit{Fonte: Seu Nome}\hfill\textcolor{white}{Imagem: Descrição da imagem}}
 \end{frame}
-}
+
 
 \section{Resultados e Discussões}
 
-{
-\usebackgroundtemplate{%
-  \includegraphics[width=\paperwidth,height=\paperheight]{imgs/img_008.jpg}%
-}
+
 \begin{frame}[b]{Resultados e Discussões}
   \begin{itemize}
     \item \parbox{0.60\textwidth}{Principais \textbf{resultados} alcançados}
@@ -314,9 +300,8 @@ Meio de Inteligência Artificial}
   
   \vfill
   
-  {\fontsize{4}{5}\selectfont\textit{Fonte: Seu Nome}\hfill\textcolor{white}{Imagem: Descrição da imagem}}
 \end{frame}
-}
+
 
 % Slide Informações Gerais (clone)
 {
