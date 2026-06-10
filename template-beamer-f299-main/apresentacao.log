@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.6.9)  10 JUN 2026 17:49
+This is pdfTeX, Version 3.141592653-2.6-1.40.28 (MiKTeX 25.12) (preloaded format=pdflatex 2026.6.9)  10 JUN 2026 17:52
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -944,6 +944,45 @@ File: pgfmodulematrix.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 layer/tikz/libraries\tikzlibrarytopaths.code.tex
 File: tikzlibrarytopaths.code.tex 2025-08-29 v3.1.11a (3.1.11a)
 )))
+(C:\Users\isabely.araujo\AppData\Local\Programs\MiKTeX\tex/latex/booktabs\bookt
+abs.sty
+Package: booktabs 2020/01/12 v1.61803398 Publication quality tables
+\heavyrulewidth=\dimen316
+\lightrulewidth=\dimen317
+\cmidrulewidth=\dimen318
+\belowrulesep=\dimen319
+\belowbottomsep=\dimen320
+\aboverulesep=\dimen321
+\abovetopsep=\dimen322
+\cmidrulesep=\dimen323
+\cmidrulekern=\dimen324
+\defaultaddspace=\dimen325
+\@cmidla=\count369
+\@cmidlb=\count370
+\@aboverulesep=\dimen326
+\@belowrulesep=\dimen327
+\@thisruleclass=\count371
+\@lastruleclass=\count372
+\@thisrulewidth=\dimen328
+)
+(C:\Users\isabely.araujo\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.st
+y
+Package: array 2025/09/25 v2.6n Tabular extension package (FMi)
+\col@sep=\dimen329
+\ar@mcellbox=\box83
+\extrarowheight=\dimen330
+\NC@list=\toks50
+\extratabsurround=\skip67
+\backup@length=\skip68
+\ar@cellbox=\box84
+)
+(C:\Users\isabely.araujo\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\color
+tbl.sty
+Package: colortbl 2026/05/01 v1.0l Color table columns (DPC)
+\everycr=\toks51
+\minrowclearance=\skip69
+\rownum=\count373
+)
 (C:\Users\isabely.araujo\AppData\Local\Programs\MiKTeX\tex/latex/roboto\roboto.
 sty
 Package: roboto 2022/09/10 (Bob Tennent) Supports Roboto fonts for all LaTeX en
@@ -965,10 +1004,10 @@ Package: xkeyval 2022/06/16 v2.9 package option processing (HA)
 val.tex
 (C:\Users\isabely.araujo\AppData\Local\Programs\MiKTeX\tex/generic/xkeyval\xkvu
 tils.tex
-\XKV@toks=\toks50
-\XKV@tempa@toks=\toks51
+\XKV@toks=\toks52
+\XKV@tempa@toks=\toks53
 )
-\XKV@depth=\count369
+\XKV@depth=\count374
 File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
 ))
 (C:\Users\isabely.araujo\AppData\Local\Programs\MiKTeX\tex/latex/base\textcomp.
@@ -1018,31 +1057,31 @@ uterthemeinfolines.sty))
 (C:\Users\isabely.araujo\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3ba
 ckend-pdftex.def
 File: l3backend-pdftex.def 2025-10-09 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count370
+\l__color_backend_stack_int=\count375
 ) (apresentacao.aux
 Package babel Info: 'brazilian' activates 'portuges' shorthands.
 (babel)             Reported on input line 8.
 )
 \openout1 = `apresentacao.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 95.
-LaTeX Font Info:    ... okay on input line 95.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 95.
-LaTeX Font Info:    ... okay on input line 95.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 95.
-LaTeX Font Info:    ... okay on input line 95.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 95.
-LaTeX Font Info:    ... okay on input line 95.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 95.
-LaTeX Font Info:    ... okay on input line 95.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 95.
-LaTeX Font Info:    ... okay on input line 95.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 95.
-LaTeX Font Info:    ... okay on input line 95.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 95.
-LaTeX Font Info:    ... okay on input line 95.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 95.
-LaTeX Font Info:    ... okay on input line 95.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 99.
+LaTeX Font Info:    ... okay on input line 99.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -1082,17 +1121,17 @@ LaTeX Font Info:    ... okay on input line 95.
 (C:\Users\isabely.araujo\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\su
 pp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count371
-\scratchdimen=\dimen316
-\scratchbox=\box83
-\nofMPsegments=\count372
-\nofMParguments=\count373
-\everyMPshowfont=\toks52
-\MPscratchCnt=\count374
-\MPscratchDim=\dimen317
-\MPnumerator=\count375
-\makeMPintoPDFobject=\count376
-\everyMPtoPDFconversion=\toks53
+\scratchcounter=\count376
+\scratchdimen=\dimen331
+\scratchbox=\box85
+\nofMPsegments=\count377
+\nofMParguments=\count378
+\everyMPshowfont=\toks54
+\MPscratchCnt=\count379
+\MPscratchDim=\dimen332
+\MPnumerator=\count380
+\makeMPintoPDFobject=\count381
+\everyMPtoPDFconversion=\toks55
 )
 (C:\Users\isabely.araujo\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\e
 pstopdf-base.sty
@@ -1104,58 +1143,58 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 pdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-Package hyperref Info: Link coloring OFF on input line 95.
+Package hyperref Info: Link coloring OFF on input line 99.
  (apresentacao.out) (apresentacao.out)
 \@outlinefile=\write5
 \openout5 = `apresentacao.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 95.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 99.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 95.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/b/n on input line 99.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/cmr/m/n on input line 95.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 95.
+(Font)                  OT1/cmss/m/n --> T1/cmr/m/n on input line 99.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 99.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> T1/Roboto-LF/b/n on input line 95.
+(Font)                  OT1/cmr/bx/n --> T1/Roboto-LF/b/n on input line 99.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> T1/Roboto-LF/b/n on input line 95.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 95.
+(Font)                  OT1/cmr/bx/n --> T1/Roboto-LF/b/n on input line 99.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 99.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/Roboto-LF/m/n on input line 95.
+(Font)                  OT1/cmss/m/n --> T1/Roboto-LF/m/n on input line 99.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> T1/Roboto-LF/m/n on input line 95.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 95.
+(Font)                  OT1/cmss/bx/n --> T1/Roboto-LF/m/n on input line 99.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 99.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> T1/Roboto-LF/m/it on input line 95.
+(Font)                  OT1/cmr/m/it --> T1/Roboto-LF/m/it on input line 99.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> T1/Roboto-LF/m/it on input line 95.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 95.
+(Font)                  OT1/cmr/bx/it --> T1/Roboto-LF/m/it on input line 99.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 99.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 95.
+(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 99.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 95.
+(Font)                  OT1/cmtt/m/n --> T1/cmtt/m/n on input line 99.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  T1/Roboto-LF/m/n --> T1/Roboto-LF/b/n on input line 95.
+(Font)                  T1/Roboto-LF/m/n --> T1/Roboto-LF/b/n on input line 99.
 
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
 (Font)                  T1/Roboto-LF/m/it --> T1/Roboto-LF/b/it on input line 9
-5.
+9.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/b/n --> T1/cmr/b/n on input line 95.
+(Font)                  OT1/cmss/b/n --> T1/cmr/b/n on input line 99.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/Roboto-LF/b/n --> T1/Roboto-LF/b/n on input line 95.
+(Font)                  T1/Roboto-LF/b/n --> T1/Roboto-LF/b/n on input line 99.
 
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/Roboto-LF/m/n --> T1/Roboto-LF/b/n on input line 95.
+(Font)                  T1/Roboto-LF/m/n --> T1/Roboto-LF/b/n on input line 99.
 
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
 (Font)                  T1/Roboto-LF/m/it --> T1/Roboto-LF/b/it on input line 9
-5.
+9.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/cmtt/m/n --> T1/cmtt/b/n on input line 95.
+(Font)                  T1/cmtt/m/n --> T1/cmtt/b/n on input line 99.
 
 (C:\Users\isabely.araujo\AppData\Local\Programs\MiKTeX\tex/latex/translator\tra
 nslator-basic-dictionary-English.dict
@@ -1181,74 +1220,74 @@ Dictionary: translator-numbers-dictionary, Language: English
 nslator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-\c@mv@tabular=\count377
-\c@mv@boldtabular=\count378
+\c@mv@tabular=\count382
+\c@mv@boldtabular=\count383
  (apresentacao.nav)
 LaTeX Font Info:    Font shape `T1/Roboto-LF/m/n' aliased to
-(Font)              `T1/Roboto-LF/regular/n' on input line 95.
+(Font)              `T1/Roboto-LF/regular/n' on input line 99.
 LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/n' will be
-(Font)              scaled to size 6.0pt on input line 95.
+(Font)              scaled to size 6.0pt on input line 99.
 LaTeX Font Info:    Font shape `T1/Roboto-LF/m/n' aliased to
-(Font)              `T1/Roboto-LF/regular/n' on input line 95.
+(Font)              `T1/Roboto-LF/regular/n' on input line 99.
 LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/n' will be
-(Font)              scaled to size 5.0pt on input line 95.
+(Font)              scaled to size 5.0pt on input line 99.
 <imgs/base/fatec-rgt.png, id=41, 202.1151pt x 91.3011pt>
 File: imgs/base/fatec-rgt.png Graphic file (type png)
 <use imgs/base/fatec-rgt.png>
-Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 95.
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 99.
 (pdftex.def)             Requested size: 28.34218pt x 12.80365pt.
 <imgs/base/governo-sp-secretaria-logo.png, id=43, 3144.74875pt x 557.08125pt>
 File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
 <use imgs/base/governo-sp-secretaria-logo.png>
 Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on inpu
-t line 95.
+t line 99.
 (pdftex.def)             Requested size: 136.51715pt x 24.18501pt.
 <imgs/base/cps-logo.png, id=44, 63.1158pt x 42.3984pt>
 File: imgs/base/cps-logo.png Graphic file (type png)
 <use imgs/base/cps-logo.png>
-Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 95.
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 99.
 (pdftex.def)             Requested size: 25.4144pt x 17.07182pt.
 File: imgs/base/fatec-rgt.png Graphic file (type png)
 <use imgs/base/fatec-rgt.png>
-Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 133.
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 135.
 (pdftex.def)             Requested size: 28.34218pt x 12.80365pt.
 File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
 <use imgs/base/governo-sp-secretaria-logo.png>
 Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on inpu
-t line 133.
+t line 135.
 (pdftex.def)             Requested size: 136.51715pt x 24.18501pt.
 File: imgs/base/cps-logo.png Graphic file (type png)
 <use imgs/base/cps-logo.png>
-Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 133.
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 135.
 (pdftex.def)             Requested size: 25.4144pt x 17.07182pt.
 LaTeX Font Info:    Font shape `T1/Roboto-LF/b/n' aliased to
-(Font)              `T1/Roboto-LF/bold/n' on input line 133.
+(Font)              `T1/Roboto-LF/bold/n' on input line 135.
 LaTeX Font Info:    Font shape `T1/Roboto-LF/bold/n' will be
-(Font)              scaled to size 10.95pt on input line 133.
+(Font)              scaled to size 10.95pt on input line 135.
 LaTeX Font Info:    Font shape `T1/Roboto-LF/m/n' aliased to
-(Font)              `T1/Roboto-LF/regular/n' on input line 133.
+(Font)              `T1/Roboto-LF/regular/n' on input line 135.
 LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/n' will be
-(Font)              scaled to size 10.0pt on input line 133.
+(Font)              scaled to size 10.0pt on input line 135.
 LaTeX Font Info:    Font shape `T1/Roboto-LF/m/n' aliased to
-(Font)              `T1/Roboto-LF/regular/n' on input line 133.
+(Font)              `T1/Roboto-LF/regular/n' on input line 135.
 LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/n' will be
-(Font)              scaled to size 8.0pt on input line 133.
+(Font)              scaled to size 8.0pt on input line 135.
 LaTeX Font Info:    Font shape `T1/Roboto-LF/m/n' aliased to
-(Font)              `T1/Roboto-LF/regular/n' on input line 133.
+(Font)              `T1/Roboto-LF/regular/n' on input line 135.
 LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/n' will be
-(Font)              scaled to size 4.0pt on input line 133.
+(Font)              scaled to size 4.0pt on input line 135.
 File: imgs/base/fatec-rgt.png Graphic file (type png)
 <use imgs/base/fatec-rgt.png>
-Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 133.
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 135.
 (pdftex.def)             Requested size: 28.34218pt x 12.80365pt.
 File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
 <use imgs/base/governo-sp-secretaria-logo.png>
 Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on inpu
-t line 133.
+t line 135.
 (pdftex.def)             Requested size: 136.51715pt x 24.18501pt.
 File: imgs/base/cps-logo.png Graphic file (type png)
 <use imgs/base/cps-logo.png>
-Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 133.
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 135.
 (pdftex.def)             Requested size: 25.4144pt x 17.07182pt.
  [1
 
@@ -1258,66 +1297,137 @@ sers/isabely.araujo/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/roboto/rbto_b
 png> <./imgs/base/cps-logo.png>]
 File: imgs/base/fatec-rgt.png Graphic file (type png)
 <use imgs/base/fatec-rgt.png>
-Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 151.
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 153.
 (pdftex.def)             Requested size: 28.34218pt x 12.80365pt.
 File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
 <use imgs/base/governo-sp-secretaria-logo.png>
 Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on inpu
-t line 151.
+t line 153.
 (pdftex.def)             Requested size: 136.51715pt x 24.18501pt.
 File: imgs/base/cps-logo.png Graphic file (type png)
 <use imgs/base/cps-logo.png>
-Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 151.
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 153.
 (pdftex.def)             Requested size: 25.4144pt x 17.07182pt.
 LaTeX Font Info:    Font shape `T1/Roboto-LF/b/n' aliased to
-(Font)              `T1/Roboto-LF/bold/n' on input line 151.
+(Font)              `T1/Roboto-LF/bold/n' on input line 153.
 LaTeX Font Info:    Font shape `T1/Roboto-LF/bold/n' will be
-(Font)              scaled to size 8.0pt on input line 151.
+(Font)              scaled to size 8.0pt on input line 153.
 LaTeX Font Info:    Font shape `T1/Roboto-LF/m/n' aliased to
-(Font)              `T1/Roboto-LF/regular/n' on input line 151.
+(Font)              `T1/Roboto-LF/regular/n' on input line 153.
 LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/n' will be
-(Font)              scaled to size 14.4pt on input line 151.
+(Font)              scaled to size 14.4pt on input line 153.
 File: imgs/base/fatec-rgt.png Graphic file (type png)
 <use imgs/base/fatec-rgt.png>
-Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 151.
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 153.
 (pdftex.def)             Requested size: 28.34218pt x 12.80365pt.
 File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
 <use imgs/base/governo-sp-secretaria-logo.png>
 Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on inpu
-t line 151.
+t line 153.
 (pdftex.def)             Requested size: 136.51715pt x 24.18501pt.
 File: imgs/base/cps-logo.png Graphic file (type png)
 <use imgs/base/cps-logo.png>
-Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 151.
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 153.
 (pdftex.def)             Requested size: 25.4144pt x 17.07182pt.
  [2
 
 ]
 File: imgs/base/fatec-rgt.png Graphic file (type png)
 <use imgs/base/fatec-rgt.png>
-Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 164.
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 176.
 (pdftex.def)             Requested size: 28.34218pt x 12.80365pt.
 File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
 <use imgs/base/governo-sp-secretaria-logo.png>
 Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on inpu
-t line 164.
+t line 176.
 (pdftex.def)             Requested size: 136.51715pt x 24.18501pt.
 File: imgs/base/cps-logo.png Graphic file (type png)
 <use imgs/base/cps-logo.png>
-Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 164.
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 176.
 (pdftex.def)             Requested size: 25.4144pt x 17.07182pt.
 LaTeX Font Info:    Font shape `T1/Roboto-LF/m/it' aliased to
-(Font)              `T1/Roboto-LF/regular/it' on input line 164.
+(Font)              `T1/Roboto-LF/regular/it' on input line 176.
 LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/it' will be
-(Font)              scaled to size 8.0pt on input line 164.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 164
+(Font)              scaled to size 8.0pt on input line 176.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/m/n' aliased to
+(Font)              `T1/Roboto-LF/regular/n' on input line 176.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/n' will be
+(Font)              scaled to size 12.0pt on input line 176.
+File: imgs/base/fatec-rgt.png Graphic file (type png)
+<use imgs/base/fatec-rgt.png>
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 176.
+(pdftex.def)             Requested size: 28.34218pt x 12.80365pt.
+File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
+<use imgs/base/governo-sp-secretaria-logo.png>
+Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on inpu
+t line 176.
+(pdftex.def)             Requested size: 136.51715pt x 24.18501pt.
+File: imgs/base/cps-logo.png Graphic file (type png)
+<use imgs/base/cps-logo.png>
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 176.
+(pdftex.def)             Requested size: 25.4144pt x 17.07182pt.
+ [3
+
+]
+File: imgs/base/fatec-rgt.png Graphic file (type png)
+<use imgs/base/fatec-rgt.png>
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 195.
+(pdftex.def)             Requested size: 28.34218pt x 12.80365pt.
+File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
+<use imgs/base/governo-sp-secretaria-logo.png>
+Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on inpu
+t line 195.
+(pdftex.def)             Requested size: 136.51715pt x 24.18501pt.
+File: imgs/base/cps-logo.png Graphic file (type png)
+<use imgs/base/cps-logo.png>
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 195.
+(pdftex.def)             Requested size: 25.4144pt x 17.07182pt.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/m/it' aliased to
+(Font)              `T1/Roboto-LF/regular/it' on input line 195.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/it' will be
+(Font)              scaled to size 4.0pt on input line 195.
+<imgs/abelhavarroa.jpeg, id=75, 1027.84pt x 574.145pt>
+File: imgs/abelhavarroa.jpeg Graphic file (type jpg)
+<use imgs/abelhavarroa.jpeg>
+Package pdftex.def Info: imgs/abelhavarroa.jpeg  used on input line 195.
+(pdftex.def)             Requested size: 455.24655pt x 256.07631pt.
+File: imgs/base/fatec-rgt.png Graphic file (type png)
+<use imgs/base/fatec-rgt.png>
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 195.
+(pdftex.def)             Requested size: 28.34218pt x 12.80365pt.
+File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
+<use imgs/base/governo-sp-secretaria-logo.png>
+Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on inpu
+t line 195.
+(pdftex.def)             Requested size: 136.51715pt x 24.18501pt.
+File: imgs/base/cps-logo.png Graphic file (type png)
+<use imgs/base/cps-logo.png>
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 195.
+(pdftex.def)             Requested size: 25.4144pt x 17.07182pt.
+ [4
+
+ <./imgs/abelhavarroa.jpeg>]
+File: imgs/base/fatec-rgt.png Graphic file (type png)
+<use imgs/base/fatec-rgt.png>
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 234.
+(pdftex.def)             Requested size: 28.34218pt x 12.80365pt.
+File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
+<use imgs/base/governo-sp-secretaria-logo.png>
+Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on inpu
+t line 234.
+(pdftex.def)             Requested size: 136.51715pt x 24.18501pt.
+File: imgs/base/cps-logo.png Graphic file (type png)
+<use imgs/base/cps-logo.png>
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 234.
+(pdftex.def)             Requested size: 25.4144pt x 17.07182pt.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 234
 .
 
 (C:\Users\isabely.araujo\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.
 fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 164
+LaTeX Font Info:    Trying to load font information for U+msb on input line 234
 .
 
 (C:\Users\isabely.araujo\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.
@@ -1325,574 +1435,511 @@ fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
 LaTeX Font Info:    Font shape `T1/Roboto-LF/m/it' aliased to
-(Font)              `T1/Roboto-LF/regular/it' on input line 164.
+(Font)              `T1/Roboto-LF/regular/it' on input line 234.
 LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/it' will be
-(Font)              scaled to size 6.0pt on input line 164.
+(Font)              scaled to size 6.0pt on input line 234.
 LaTeX Font Info:    Font shape `T1/Roboto-LF/m/it' aliased to
-(Font)              `T1/Roboto-LF/regular/it' on input line 164.
+(Font)              `T1/Roboto-LF/regular/it' on input line 234.
 LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/it' will be
-(Font)              scaled to size 5.0pt on input line 164.
-File: imgs/base/fatec-rgt.png Graphic file (type png)
-<use imgs/base/fatec-rgt.png>
-Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 164.
-(pdftex.def)             Requested size: 28.34218pt x 12.80365pt.
-File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
-<use imgs/base/governo-sp-secretaria-logo.png>
-Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on inpu
-t line 164.
-(pdftex.def)             Requested size: 136.51715pt x 24.18501pt.
-File: imgs/base/cps-logo.png Graphic file (type png)
-<use imgs/base/cps-logo.png>
-Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 164.
-(pdftex.def)             Requested size: 25.4144pt x 17.07182pt.
- [3
-
-]
-File: imgs/base/fatec-rgt.png Graphic file (type png)
-<use imgs/base/fatec-rgt.png>
-Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 184.
-(pdftex.def)             Requested size: 28.34218pt x 12.80365pt.
-File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
-<use imgs/base/governo-sp-secretaria-logo.png>
-Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on inpu
-t line 184.
-(pdftex.def)             Requested size: 136.51715pt x 24.18501pt.
-File: imgs/base/cps-logo.png Graphic file (type png)
-<use imgs/base/cps-logo.png>
-Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 184.
-(pdftex.def)             Requested size: 25.4144pt x 17.07182pt.
-LaTeX Font Info:    Font shape `T1/Roboto-LF/m/it' aliased to
-(Font)              `T1/Roboto-LF/regular/it' on input line 184.
-LaTeX Font Info:    Font shape `T1/Roboto-LF/regular/it' will be
-(Font)              scaled to size 4.0pt on input line 184.
-<imgs/abelhavarroa.jpeg, id=75, 1027.84pt x 574.145pt>
-File: imgs/abelhavarroa.jpeg Graphic file (type jpg)
-<use imgs/abelhavarroa.jpeg>
-Package pdftex.def Info: imgs/abelhavarroa.jpeg  used on input line 184.
-(pdftex.def)             Requested size: 455.24655pt x 256.07631pt.
-File: imgs/base/fatec-rgt.png Graphic file (type png)
-<use imgs/base/fatec-rgt.png>
-Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 184.
-(pdftex.def)             Requested size: 28.34218pt x 12.80365pt.
-File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
-<use imgs/base/governo-sp-secretaria-logo.png>
-Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on inpu
-t line 184.
-(pdftex.def)             Requested size: 136.51715pt x 24.18501pt.
-File: imgs/base/cps-logo.png Graphic file (type png)
-<use imgs/base/cps-logo.png>
-Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 184.
-(pdftex.def)             Requested size: 25.4144pt x 17.07182pt.
- [4
-
- <./imgs/abelhavarroa.jpeg>]
-File: imgs/base/fatec-rgt.png Graphic file (type png)
-<use imgs/base/fatec-rgt.png>
-Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 222.
-(pdftex.def)             Requested size: 28.34218pt x 12.80365pt.
-File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
-<use imgs/base/governo-sp-secretaria-logo.png>
-Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on inpu
-t line 222.
-(pdftex.def)             Requested size: 136.51715pt x 24.18501pt.
-File: imgs/base/cps-logo.png Graphic file (type png)
-<use imgs/base/cps-logo.png>
-Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 222.
-(pdftex.def)             Requested size: 25.4144pt x 17.07182pt.
+(Font)              scaled to size 5.0pt on input line 234.
 LaTeX Font Info:    Font shape `T1/Roboto-LF/b/n' aliased to
-(Font)              `T1/Roboto-LF/bold/n' on input line 222.
+(Font)              `T1/Roboto-LF/bold/n' on input line 234.
 LaTeX Font Info:    Font shape `T1/Roboto-LF/bold/n' will be
-(Font)              scaled to size 6.0pt on input line 222.
+(Font)              scaled to size 6.0pt on input line 234.
 
-Underfull \hbox (badness 2828) in paragraph at lines 222--222
+Underfull \hbox (badness 2828) in paragraph at lines 234--234
 \T1/Roboto-LF/regular/n/6 ni-to-ring sys-tem for early
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 222--222
+Underfull \hbox (badness 10000) in paragraph at lines 234--234
 \T1/Roboto-LF/regular/n/6 de-tec-tion of the var-roa
  []
 
 
-Underfull \hbox (badness 6808) in paragraph at lines 222--222
+Underfull \hbox (badness 6808) in paragraph at lines 234--234
 \T1/Roboto-LF/regular/n/6 mite ^^V Vou-di-o-tis et al.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 222--222
-[]\T1/Roboto-LF/regular/n/6 Identificar o ácaro
+Underfull \hbox (badness 10000) in paragraph at lines 234--234
+[]|\T1/Roboto-LF/regular/n/6 Identificar o ácaro
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 222--222
+Underfull \hbox (badness 10000) in paragraph at lines 234--234
 \T1/Roboto-LF/regular/it/6 Var-roa des-truc-tor
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 222--222
+Underfull \hbox (badness 10000) in paragraph at lines 234--234
 \T1/Roboto-LF/regular/n/6 pre-co-ce-mente nas
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 222--222
-[]\T1/Roboto-LF/regular/n/6 Duas câ-me-ras (5
+Underfull \hbox (badness 10000) in paragraph at lines 234--234
+[]|\T1/Roboto-LF/regular/n/6 Duas câ-me-ras (5
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 222--222
+Underfull \hbox (badness 10000) in paragraph at lines 234--234
 \T1/Roboto-LF/regular/n/6 MP), mi-cro-pro-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 222--222
+Underfull \hbox (badness 10000) in paragraph at lines 234--234
 \T1/Roboto-LF/regular/n/6 ces-sa-dor ARM e
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 222--222
+Underfull \hbox (badness 10000) in paragraph at lines 234--234
 \T1/Roboto-LF/regular/n/6 mo-delo de CNN
  []
 
 
-Underfull \hbox (badness 4995) in paragraph at lines 222--222
+Underfull \hbox (badness 4995) in paragraph at lines 234--234
 \T1/Roboto-LF/regular/n/6 pré-treinado (mo-dos
  []
 
 
-Underfull \hbox (badness 6173) in paragraph at lines 222--222
-[]\T1/Roboto-LF/regular/n/6 Precisão de 77% a
+Underfull \hbox (badness 6173) in paragraph at lines 234--234
+[]|\T1/Roboto-LF/regular/n/6 Precisão de 77% a
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 222--222
+Underfull \hbox (badness 10000) in paragraph at lines 234--234
 \T1/Roboto-LF/regular/n/6 86% no al-go-ritmo;
  []
 
 
-Underfull \hbox (badness 3189) in paragraph at lines 222--222
+Underfull \hbox (badness 3189) in paragraph at lines 234--234
 \T1/Roboto-LF/regular/n/6 modo on-line 3 a 4
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 222--222
-[]\T1/Roboto-LF/regular/n/6 Modo on-line exige
+Underfull \hbox (badness 10000) in paragraph at lines 234--234
+[]|\T1/Roboto-LF/regular/n/6 Modo on-line exige
  []
 
 
-Underfull \hbox (badness 8038) in paragraph at lines 222--222
+Underfull \hbox (badness 8038) in paragraph at lines 234--234
 \T1/Roboto-LF/regular/n/6 cus-tos com da-dos;
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 222--222
+Underfull \hbox (badness 10000) in paragraph at lines 234--234
 \T1/Roboto-LF/regular/n/6 modo of-fline teve
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 222--222
+Underfull \hbox (badness 10000) in paragraph at lines 234--234
 \T1/Roboto-LF/regular/n/6 pré-treinados
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 222--222
+Underfull \hbox (badness 10000) in paragraph at lines 234--234
 \T1/Roboto-LF/regular/n/6 e de-pen-dên-cia
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 222--222
+Underfull \hbox (badness 10000) in paragraph at lines 234--234
 \T1/Roboto-LF/regular/n/6 de hard-ware
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 222--222
+Underfull \hbox (badness 10000) in paragraph at lines 234--234
 \T1/Roboto-LF/regular/n/6 em-bar-cado de
  []
 
 
-Underfull \hbox (badness 1173) in paragraph at lines 222--222
-[]\T1/Roboto-LF/regular/n/6 Desarrollo de un sis-tema
+Underfull \hbox (badness 1173) in paragraph at lines 234--234
+[]|\T1/Roboto-LF/regular/n/6 Desarrollo de un sis-tema
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 222--222
+Underfull \hbox (badness 10000) in paragraph at lines 234--234
 \T1/Roboto-LF/regular/n/6 teo del pa-rá-sito Var-roa
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 222--222
+Underfull \hbox (badness 10000) in paragraph at lines 234--234
 \T1/Roboto-LF/regular/n/6 des-truc-tor en col-me-nas
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 222--222
-[]\T1/Roboto-LF/regular/n/6 Processar ima-gens
+Underfull \hbox (badness 10000) in paragraph at lines 234--234
+[]|\T1/Roboto-LF/regular/n/6 Processar ima-gens
  []
 
 
-Underfull \hbox (badness 4726) in paragraph at lines 222--222
+Underfull \hbox (badness 4726) in paragraph at lines 234--234
 \T1/Roboto-LF/regular/n/6 car-re-ga-das via web
  []
 
 
-Underfull \hbox (badness 1888) in paragraph at lines 222--222
+Underfull \hbox (badness 1888) in paragraph at lines 234--234
 \T1/Roboto-LF/regular/n/6 para iden-ti-fi-car pon-
  []
 
 
-Underfull \hbox (badness 1014) in paragraph at lines 222--222
+Underfull \hbox (badness 1014) in paragraph at lines 234--234
 \T1/Roboto-LF/regular/n/6 Scikit-learn, além de
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 222--222
+Underfull \hbox (badness 10000) in paragraph at lines 234--234
 \T1/Roboto-LF/regular/n/6 al-go-rit-mos não su-
  []
 
 
-Underfull \hbox (badness 5374) in paragraph at lines 222--222
+Underfull \hbox (badness 5374) in paragraph at lines 234--234
 \T1/Roboto-LF/regular/n/6 per-vi-si-o-na-dos como
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 222--222
-[]\T1/Roboto-LF/regular/n/6 Praticamente to-das
+Underfull \hbox (badness 10000) in paragraph at lines 234--234
+[]|\T1/Roboto-LF/regular/n/6 Praticamente to-das
  []
 
 
-Underfull \hbox (badness 1478) in paragraph at lines 222--222
+Underfull \hbox (badness 1478) in paragraph at lines 234--234
 \T1/Roboto-LF/regular/n/6 ca-li-za-das, mas com
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 222--222
+Underfull \hbox (badness 10000) in paragraph at lines 234--234
 \T1/Roboto-LF/regular/n/6 bai-xís-sima pre-ci-são
  []
 
 
-Underfull \hbox (badness 3826) in paragraph at lines 222--222
-[]\T1/Roboto-LF/regular/n/6 Alta taxa de fal-sos
+Underfull \hbox (badness 3826) in paragraph at lines 234--234
+[]|\T1/Roboto-LF/regular/n/6 Alta taxa de fal-sos
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 222--222
-[]\T1/Roboto-LF/regular/n/6 Falta de uma
+Underfull \hbox (badness 10000) in paragraph at lines 234--234
+[]|\T1/Roboto-LF/regular/n/6 Falta de uma
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 222--222
+Underfull \hbox (badness 10000) in paragraph at lines 234--234
 \T1/Roboto-LF/regular/n/6 abor-da-gem de
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 222--222
+Underfull \hbox (badness 10000) in paragraph at lines 234--234
 \T1/Roboto-LF/regular/n/6 apren-di-zado
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 222--222
+Underfull \hbox (badness 10000) in paragraph at lines 234--234
 \T1/Roboto-LF/regular/n/6 su-per-vi-si-o-nado
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 222--222
+Underfull \hbox (badness 10000) in paragraph at lines 234--234
 \T1/Roboto-LF/regular/n/6 de-di-cada para
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 222--222
+Underfull \hbox (badness 10000) in paragraph at lines 234--234
 \T1/Roboto-LF/regular/n/6 evi-tar fal-sos
  []
 
 
-Underfull \hbox (badness 6268) in paragraph at lines 222--222
-[]\T1/Roboto-LF/regular/n/6 Apisot: An iot func-tion
+Underfull \hbox (badness 6268) in paragraph at lines 234--234
+[]|\T1/Roboto-LF/regular/n/6 Apisot: An iot func-tion
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 222--222
+Underfull \hbox (badness 10000) in paragraph at lines 234--234
 \T1/Roboto-LF/regular/n/6 ag-gre-ga-tion me-cha-nism
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 222--222
+Underfull \hbox (badness 10000) in paragraph at lines 234--234
 \T1/Roboto-LF/regular/n/6 for de-tec-ting var-roa in-
  []
 
 
-Underfull \hbox (badness 1189) in paragraph at lines 222--222
+Underfull \hbox (badness 1189) in paragraph at lines 234--234
 \T1/Roboto-LF/regular/n/6 spe-cies ^^V Ca-mayo et al.
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 222--222
-[]\T1/Roboto-LF/regular/n/6 Monitorar umi-dade,
+Underfull \hbox (badness 10000) in paragraph at lines 234--234
+[]|\T1/Roboto-LF/regular/n/6 Monitorar umi-dade,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 222--222
+Underfull \hbox (badness 10000) in paragraph at lines 234--234
 \T1/Roboto-LF/regular/n/6 para aler-tar risco
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 222--222
+Underfull \hbox (badness 10000) in paragraph at lines 234--234
 \T1/Roboto-LF/regular/n/6 de in-fes-ta-ção por
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 222--222
+Underfull \hbox (badness 10000) in paragraph at lines 234--234
 \T1/Roboto-LF/regular/n/6 col-meia, al-go-ritmo
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 222--222
+Underfull \hbox (badness 10000) in paragraph at lines 234--234
 \T1/Roboto-LF/regular/n/6 mul-ti-cri-té-rio pon-de-
  []
 
 
-Underfull \hbox (badness 7116) in paragraph at lines 222--222
+Underfull \hbox (badness 7116) in paragraph at lines 234--234
 \T1/Roboto-LF/regular/n/6 rado e rede neu-ral
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 222--222
+Underfull \hbox (badness 10000) in paragraph at lines 234--234
 \T1/Roboto-LF/regular/n/6 ri-a-bi-li-dade cli-má-tica
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 222--222
-[]\T1/Roboto-LF/regular/n/6 Não re-a-liza a
+Underfull \hbox (badness 10000) in paragraph at lines 234--234
+[]|\T1/Roboto-LF/regular/n/6 Não re-a-liza a
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 222--222
+Underfull \hbox (badness 10000) in paragraph at lines 234--234
 \T1/Roboto-LF/regular/n/6 aná-lise di-reta
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 222--222
+Underfull \hbox (badness 10000) in paragraph at lines 234--234
 \T1/Roboto-LF/regular/n/6 por ima-gens
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 222--222
+Underfull \hbox (badness 10000) in paragraph at lines 234--234
 \T1/Roboto-LF/regular/n/6 das abe-lhas,
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 222--222
+Underfull \hbox (badness 10000) in paragraph at lines 234--234
 \T1/Roboto-LF/regular/n/6 baseando-se
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 222--222
+Underfull \hbox (badness 10000) in paragraph at lines 234--234
 \T1/Roboto-LF/regular/n/6 ape-nas em
  []
 
 
-Underfull \hbox (badness 5475) in paragraph at lines 222--222
+Underfull \hbox (badness 5475) in paragraph at lines 234--234
 \T1/Roboto-LF/regular/n/6 va-ri-á-veis am-bi-
  []
 
 File: imgs/base/fatec-rgt.png Graphic file (type png)
 <use imgs/base/fatec-rgt.png>
-Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 222.
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 234.
 (pdftex.def)             Requested size: 28.34218pt x 12.80365pt.
 File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
 <use imgs/base/governo-sp-secretaria-logo.png>
 Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on inpu
-t line 222.
+t line 234.
 (pdftex.def)             Requested size: 136.51715pt x 24.18501pt.
 File: imgs/base/cps-logo.png Graphic file (type png)
 <use imgs/base/cps-logo.png>
-Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 222.
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 234.
 (pdftex.def)             Requested size: 25.4144pt x 17.07182pt.
 [5
 
 ]
 File: imgs/base/fatec-rgt.png Graphic file (type png)
 <use imgs/base/fatec-rgt.png>
-Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 242.
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 262.
 (pdftex.def)             Requested size: 28.34218pt x 12.80365pt.
 File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
 <use imgs/base/governo-sp-secretaria-logo.png>
 Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on inpu
-t line 242.
+t line 262.
 (pdftex.def)             Requested size: 136.51715pt x 24.18501pt.
 File: imgs/base/cps-logo.png Graphic file (type png)
 <use imgs/base/cps-logo.png>
-Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 242.
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 262.
 (pdftex.def)             Requested size: 25.4144pt x 17.07182pt.
 File: imgs/base/fatec-rgt.png Graphic file (type png)
 <use imgs/base/fatec-rgt.png>
-Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 242.
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 262.
 (pdftex.def)             Requested size: 28.34218pt x 12.80365pt.
 File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
 <use imgs/base/governo-sp-secretaria-logo.png>
 Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on inpu
-t line 242.
+t line 262.
 (pdftex.def)             Requested size: 136.51715pt x 24.18501pt.
 File: imgs/base/cps-logo.png Graphic file (type png)
 <use imgs/base/cps-logo.png>
-Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 242.
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 262.
 (pdftex.def)             Requested size: 25.4144pt x 17.07182pt.
  [6
 
 ]
 File: imgs/base/fatec-rgt.png Graphic file (type png)
 <use imgs/base/fatec-rgt.png>
-Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 261.
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 285.
 (pdftex.def)             Requested size: 28.34218pt x 12.80365pt.
 File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
 <use imgs/base/governo-sp-secretaria-logo.png>
 Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on inpu
-t line 261.
+t line 285.
 (pdftex.def)             Requested size: 136.51715pt x 24.18501pt.
 File: imgs/base/cps-logo.png Graphic file (type png)
 <use imgs/base/cps-logo.png>
-Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 261.
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 285.
 (pdftex.def)             Requested size: 25.4144pt x 17.07182pt.
 File: imgs/base/fatec-rgt.png Graphic file (type png)
 <use imgs/base/fatec-rgt.png>
-Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 261.
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 285.
 (pdftex.def)             Requested size: 28.34218pt x 12.80365pt.
 File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
 <use imgs/base/governo-sp-secretaria-logo.png>
 Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on inpu
-t line 261.
+t line 285.
 (pdftex.def)             Requested size: 136.51715pt x 24.18501pt.
 File: imgs/base/cps-logo.png Graphic file (type png)
 <use imgs/base/cps-logo.png>
-Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 261.
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 285.
 (pdftex.def)             Requested size: 25.4144pt x 17.07182pt.
  [7
 
 ]
 File: imgs/base/fatec-rgt.png Graphic file (type png)
 <use imgs/base/fatec-rgt.png>
-Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 269.
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 292.
 (pdftex.def)             Requested size: 28.34218pt x 12.80365pt.
 File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
 <use imgs/base/governo-sp-secretaria-logo.png>
 Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on inpu
-t line 269.
+t line 292.
 (pdftex.def)             Requested size: 136.51715pt x 24.18501pt.
 File: imgs/base/cps-logo.png Graphic file (type png)
 <use imgs/base/cps-logo.png>
-Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 269.
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 292.
 (pdftex.def)             Requested size: 25.4144pt x 17.07182pt.
 <imgs/fluxo.png, id=105, 350.81062pt x 445.665pt>
 File: imgs/fluxo.png Graphic file (type png)
 <use imgs/fluxo.png>
-Package pdftex.def Info: imgs/fluxo.png  used on input line 269.
+Package pdftex.def Info: imgs/fluxo.png  used on input line 292.
 (pdftex.def)             Requested size: 109.32292pt x 138.8802pt.
 File: imgs/base/fatec-rgt.png Graphic file (type png)
 <use imgs/base/fatec-rgt.png>
-Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 269.
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 292.
 (pdftex.def)             Requested size: 28.34218pt x 12.80365pt.
 File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
 <use imgs/base/governo-sp-secretaria-logo.png>
 Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on inpu
-t line 269.
+t line 292.
 (pdftex.def)             Requested size: 136.51715pt x 24.18501pt.
 File: imgs/base/cps-logo.png Graphic file (type png)
 <use imgs/base/cps-logo.png>
-Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 269.
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 292.
 (pdftex.def)             Requested size: 25.4144pt x 17.07182pt.
  [8
 
  <./imgs/fluxo.png>]
 File: imgs/base/fatec-rgt.png Graphic file (type png)
 <use imgs/base/fatec-rgt.png>
-Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 284.
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 317.
 (pdftex.def)             Requested size: 28.34218pt x 12.80365pt.
 File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
 <use imgs/base/governo-sp-secretaria-logo.png>
 Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on inpu
-t line 284.
+t line 317.
 (pdftex.def)             Requested size: 136.51715pt x 24.18501pt.
 File: imgs/base/cps-logo.png Graphic file (type png)
 <use imgs/base/cps-logo.png>
-Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 284.
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 317.
 (pdftex.def)             Requested size: 25.4144pt x 17.07182pt.
 File: imgs/base/fatec-rgt.png Graphic file (type png)
 <use imgs/base/fatec-rgt.png>
-Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 284.
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 317.
 (pdftex.def)             Requested size: 28.34218pt x 12.80365pt.
 File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
 <use imgs/base/governo-sp-secretaria-logo.png>
 Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on inpu
-t line 284.
+t line 317.
 (pdftex.def)             Requested size: 136.51715pt x 24.18501pt.
 File: imgs/base/cps-logo.png Graphic file (type png)
 <use imgs/base/cps-logo.png>
-Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 284.
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 317.
 (pdftex.def)             Requested size: 25.4144pt x 17.07182pt.
  [9
 
 ]
 File: imgs/base/fatec-rgt.png Graphic file (type png)
 <use imgs/base/fatec-rgt.png>
-Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 300.
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 344.
 (pdftex.def)             Requested size: 28.34218pt x 12.80365pt.
 File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
 <use imgs/base/governo-sp-secretaria-logo.png>
 Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on inpu
-t line 300.
+t line 344.
 (pdftex.def)             Requested size: 136.51715pt x 24.18501pt.
 File: imgs/base/cps-logo.png Graphic file (type png)
 <use imgs/base/cps-logo.png>
-Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 300.
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 344.
 (pdftex.def)             Requested size: 25.4144pt x 17.07182pt.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/b/n' aliased to
+(Font)              `T1/Roboto-LF/bold/n' on input line 344.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/bold/n' will be
+(Font)              scaled to size 14.4pt on input line 344.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/b/n' aliased to
+(Font)              `T1/Roboto-LF/bold/n' on input line 344.
+LaTeX Font Info:    Font shape `T1/Roboto-LF/bold/n' will be
+(Font)              scaled to size 12.0pt on input line 344.
 File: imgs/base/fatec-rgt.png Graphic file (type png)
 <use imgs/base/fatec-rgt.png>
-Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 300.
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 344.
 (pdftex.def)             Requested size: 28.34218pt x 12.80365pt.
 File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
 <use imgs/base/governo-sp-secretaria-logo.png>
 Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on inpu
-t line 300.
+t line 344.
 (pdftex.def)             Requested size: 136.51715pt x 24.18501pt.
 File: imgs/base/cps-logo.png Graphic file (type png)
 <use imgs/base/cps-logo.png>
-Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 300.
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 344.
 (pdftex.def)             Requested size: 25.4144pt x 17.07182pt.
  [10
 
 ]
 File: imgs/base/fatec-rgt.png Graphic file (type png)
 <use imgs/base/fatec-rgt.png>
-Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 314.
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 357.
 (pdftex.def)             Requested size: 28.34218pt x 12.80365pt.
 File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
 <use imgs/base/governo-sp-secretaria-logo.png>
 Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on inpu
-t line 314.
+t line 357.
 (pdftex.def)             Requested size: 136.51715pt x 24.18501pt.
 File: imgs/base/cps-logo.png Graphic file (type png)
 <use imgs/base/cps-logo.png>
-Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 314.
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 357.
 (pdftex.def)             Requested size: 25.4144pt x 17.07182pt.
-LaTeX Font Info:    Font shape `T1/Roboto-LF/b/n' aliased to
-(Font)              `T1/Roboto-LF/bold/n' on input line 314.
-LaTeX Font Info:    Font shape `T1/Roboto-LF/bold/n' will be
-(Font)              scaled to size 14.4pt on input line 314.
 <imgs/img_022.jpg, id=128, 462.528pt x 260.172pt>
 File: imgs/img_022.jpg Graphic file (type jpg)
 <use imgs/img_022.jpg>
-Package pdftex.def Info: imgs/img_022.jpg  used on input line 314.
+Package pdftex.def Info: imgs/img_022.jpg  used on input line 357.
 (pdftex.def)             Requested size: 455.26457pt x 256.0863pt.
 File: imgs/base/fatec-rgt.png Graphic file (type png)
 <use imgs/base/fatec-rgt.png>
-Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 314.
+Package pdftex.def Info: imgs/base/fatec-rgt.png  used on input line 357.
 (pdftex.def)             Requested size: 28.34218pt x 12.80365pt.
 File: imgs/base/governo-sp-secretaria-logo.png Graphic file (type png)
 <use imgs/base/governo-sp-secretaria-logo.png>
 Package pdftex.def Info: imgs/base/governo-sp-secretaria-logo.png  used on inpu
-t line 314.
+t line 357.
 (pdftex.def)             Requested size: 136.51715pt x 24.18501pt.
 File: imgs/base/cps-logo.png Graphic file (type png)
 <use imgs/base/cps-logo.png>
-Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 314.
+Package pdftex.def Info: imgs/base/cps-logo.png  used on input line 357.
 (pdftex.def)             Requested size: 25.4144pt x 17.07182pt.
  [11
 
@@ -1916,18 +1963,18 @@ Package rerunfilecheck Info: File `apresentacao.out' has not changed.
 (rerunfilecheck)             Checksum: CCA0698DDC915BD43F9E90BC15C522E1;814.
  ) 
 Here is how much of TeX's memory you used:
- 26847 strings out of 467871
- 541684 string characters out of 5414021
- 924632 words of memory out of 5000000
- 55135 multiletter control sequences out of 15000+600000
- 709639 words of font info for 86 fonts, out of 8000000 for 9000
+ 27077 strings out of 467871
+ 545385 string characters out of 5414021
+ 929143 words of memory out of 5000000
+ 55357 multiletter control sequences out of 15000+600000
+ 718888 words of font info for 85 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 128i,18n,123p,389b,759s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 128i,18n,123p,389b,900s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <C:/Users/isabely.araujo/AppData/Local/Programs/MiKTeX/fonts/type1/google/rob
 oto/Roboto-Bold.pfb><C:/Users/isabely.araujo/AppData/Local/Programs/MiKTeX/font
 s/type1/google/roboto/Roboto-Italic.pfb><C:/Users/isabely.araujo/AppData/Local/
 Programs/MiKTeX/fonts/type1/google/roboto/Roboto-Regular.pfb>
-Output written on apresentacao.pdf (11 pages, 515774 bytes).
+Output written on apresentacao.pdf (11 pages, 518975 bytes).
 PDF statistics:
  157 PDF objects out of 1000 (max. 8388607)
  30 named destinations out of 1000 (max. 500000)

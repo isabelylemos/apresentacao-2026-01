@@ -6,6 +6,9 @@
 \usepackage[brazilian]{babel}
 \usepackage{graphicx}
 \usepackage{tikz}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{colortbl}
 
 % Fonte moderna Roboto
 \usepackage[sfdefault]{roboto}
@@ -15,6 +18,7 @@
 \definecolor{vermelhoPrincipal}{HTML}{b11116}
 \definecolor{azulComplementar}{HTML}{3a5461}
 \definecolor{brancoFundo}{HTML}{FFFFFF}
+\definecolor{cinzaClaro}{HTML}{F4F4F4}
 
 % Configuração do tema
 \usetheme{Madrid}
@@ -94,12 +98,11 @@ Meio de Inteligência Artificial}
 
 \begin{document}
 
-% Slide de título moderno
+% ─── SLIDE 1 — TÍTULO (original) ─────────────────────────────────────────────
 \begin{frame}
   \vspace{0.8cm}
   \begin{center}
     \begin{tikzpicture}
-      % Linha decorativa superior
       \draw[vermelhoPrincipal, line width=2pt] (-4,0) -- (4,0);
     \end{tikzpicture}
     
@@ -118,7 +121,6 @@ Meio de Inteligência Artificial}
     \vspace{0.5cm}
     
     \begin{tikzpicture}
-      % Linha decorativa inferior
       \draw[azulComplementar, line width=1.5pt] (-2.5,0) -- (2.5,0);
     \end{tikzpicture}
     
@@ -132,7 +134,7 @@ Meio de Inteligência Artificial}
   \end{center}
 \end{frame}
 
-% Slide de agenda
+% ─── SLIDE 2 — AGENDA (original) ─────────────────────────────────────────────
 \begin{frame}[b]{Agenda}
   \begin{itemize}
     \item Pitch
@@ -150,21 +152,30 @@ Meio de Inteligência Artificial}
   \hfill{\scriptsize \textbf{Duração:} 10 a 11 min.}
 \end{frame}
 
+% ─── PITCH ───────────────────────────────────────────────────────────────────
 \section{Pitch}
 
 \begin{frame}[b]{Pitch}
-  \begin{itemize}
-    \item \parbox{0.60\textwidth}{O \textbf{MiteScan} é um sistema inteligente para monitoramento de colmeias, que utiliza técnicas de \textbf{Aprendizado de Máquina} e \textbf{Processamento de Imagens} para detectar precocemente a presença do ácaro \textit{Varroa destructor}.  
-}
-
-  \end{itemize}
-  
+  \begin{columns}[T]
+    \begin{column}{0.58\textwidth}
+      \begin{itemize}
+        \item O \textbf{MiteScan} é um sistema inteligente para monitoramento de colmeias, que utiliza técnicas de \textbf{Aprendizado de Máquina} e \textbf{Processamento de Imagens} para detectar precocemente a presença do ácaro \textit{Varroa destructor}.
+      \end{itemize}
+    \end{column}
+    \begin{column}{0.36\textwidth}
+      \begin{block}{\centering Diferenciais}
+        \begin{itemize}
+          \item Detecção precoce por imagem
+          \item Monitoramento IoT integrado
+          \item Alertas automáticos ao apicultor
+        \end{itemize}
+      \end{block}
+    \end{column}
+  \end{columns}
   \vfill
-  
 \end{frame}
 
-
-
+% ─── PROBLEMATIZAÇÃO ─────────────────────────────────────────────────────────
 \section{Problematização}
 
 {
@@ -184,6 +195,7 @@ Meio de Inteligência Artificial}
 \end{frame}
 }
 
+% ─── ESTADO DA ARTE (original) ───────────────────────────────────────────────
 \section{Estado da Arte}
 
 \begin{frame}[t]{Estado da Arte}
@@ -221,86 +233,117 @@ Meio de Inteligência Artificial}
   \end{table}
 \end{frame}
 
+% ─── OBJETIVO ────────────────────────────────────────────────────────────────
 \section{Objetivo}
 
 \begin{frame}[b]{Objetivo}
-  \begin{itemize}
-    \item \parbox{0.60\textwidth}{\textbf{Objetivo geral}: Desenvolver um sistema para a identificação precoce da Varroa e monitoramento de umidade e temperatura em colmeias.}
-    \item \parbox{0.60\textwidth}{\textbf{Objetivos específicos}:}
-    \begin{itemize}
-      \item \parbox{0.60\textwidth}{Desenvolver API integrada aos sistemas Mobile e Web;}
-      \item \parbox{0.60\textwidth}{Desenvolver algoritmo de Aprendizado de Máquina e Processamento de Imagens;}
-      \item \parbox{0.60\textwidth}{Identificar precocemente o ácaro \textit{Varroa} e alertar o apicultor;}
-      \item \parbox{0.60\textwidth}{Monitorar variáveis ambientais e emitir alertas;}
-      \item \parbox{0.60\textwidth}{Cadastrar colmeias, apicultores e consultar níveis de temperatura.}
-    \end{itemize}
-
-  \end{itemize}
-  
+  \begin{columns}[T]
+    \begin{column}{0.48\textwidth}
+      \begin{block}{Objetivo Geral}
+        \vspace{0.1em}
+        Desenvolver um sistema para a \textbf{identificação precoce da Varroa} e monitoramento de umidade e temperatura em colmeias.
+        \vspace{0.1em}
+      \end{block}
+    \end{column}
+    \begin{column}{0.48\textwidth}
+      \begin{block}{Objetivos Específicos}
+        \begin{itemize}
+          \item Desenvolver API integrada aos sistemas Mobile e Web
+          \item Desenvolver algoritmo de Aprendizado de Máquina e Processamento de Imagens
+          \item Identificar precocemente o ácaro \textit{Varroa} e alertar o apicultor
+          \item Monitorar variáveis ambientais e emitir alertas
+          \item Cadastrar colmeias, apicultores e consultar níveis de temperatura
+        \end{itemize}
+        \vspace{0.1em}
+      \end{block}
+    \end{column}
+  \end{columns}
   \vfill
-  
 \end{frame}
 
-
+% ─── FERRAMENTAL ─────────────────────────────────────────────────────────────
 \section{Ferramental}
 
-
-
 \begin{frame}[b]{Ferramental}
-  \begin{itemize}
-    \item \parbox{0.60\textwidth}{\textbf{Linguagens}: Python}
-    \item \parbox{0.60\textwidth}{\textbf{Frameworks}: FastAPI}
-    \item \parbox{0.60\textwidth}{\textbf{Banco de dados}: Supabase}
-    \item \parbox{0.60\textwidth}{\textbf{Infraestrutura e Hardware}: Arduino UNO, ESP8266, Sensor DHT11}
-    \item \parbox{0.60\textwidth}{\textbf{Ferramentas}: PyTorch, Torchvision, Pillow, Matplotlib, Seaborn, Scikit-learn}
-    \item \parbox{0.60\textwidth}{\textbf{APIs} e integrações utilizadas: API RESTful (FastAPI), Integração IoT-API, Câmera/Interface}
-  \end{itemize}
-  
+  \begin{columns}[T]
+    \begin{column}{0.48\textwidth}
+      \begin{itemize}
+        \item \textbf{Linguagens:} Python
+        \item \textbf{Frameworks:} FastAPI
+        \item \textbf{Banco de dados:} Supabase
+        \item \textbf{Infraestrutura e Hardware:} Arduino UNO, ESP8266, Sensor DHT11
+      \end{itemize}
+    \end{column}
+    \begin{column}{0.48\textwidth}
+      \begin{itemize}
+        \item \textbf{Ferramentas:} PyTorch, Torchvision, Pillow, Matplotlib, Seaborn, Scikit-learn
+        \item \textbf{APIs e integrações:} API RESTful (FastAPI), Integração IoT-API, Câmera/Interface
+      \end{itemize}
+    \end{column}
+  \end{columns}
   \vfill
-  
 \end{frame}
 
-
+% ─── METODOLOGIA ─────────────────────────────────────────────────────────────
 \begin{frame}[t]{Metodologia}
     \begin{center}
-
         \includegraphics[height=0.65\textheight, keepaspectratio]{imgs/fluxo.png}
     \end{center}
 \end{frame}
 
+% ─── APRESENTAÇÃO PRÁTICA ────────────────────────────────────────────────────
 \section{Apresentação Prática}
 
 \begin{frame}[b]{Apresentação Prática}
-  \begin{itemize}
-    \item \parbox{0.60\textwidth}{\textbf{Demonstração} ao vivo do sistema}
-    \item \parbox{0.60\textwidth}{Principais \textbf{funcionalidades} implementadas}
-    \item \parbox{0.60\textwidth}{\textbf{Interface} e experiência do usuário}
-    \item \parbox{0.60\textwidth}{Fluxos de \textbf{uso} e navegação}
-    \item \parbox{0.60\textwidth}{Casos de uso e \textbf{cenários} práticos}
-  \end{itemize}
-  
+  \begin{columns}[T]
+    \begin{column}{0.55\textwidth}
+      \begin{itemize}
+        \item \textbf{Demonstração} ao vivo do sistema
+        \item Principais \textbf{funcionalidades} implementadas
+        \item \textbf{Interface} e experiência do usuário
+        \item Fluxos de \textbf{uso} e navegação
+        \item Casos de uso e \textbf{cenários} práticos
+      \end{itemize}
+    \end{column}
+    \begin{column}{0.40\textwidth}
+      \begin{block}{\centering O que será exibido}
+        \vspace{0.2em}
+        {\scriptsize Sistema MiteScan em execução, com detecção de ácaro, alertas e dashboard de monitoramento.}
+        \vspace{0.2em}
+      \end{block}
+    \end{column}
+  \end{columns}
   \vfill
-  
 \end{frame}
 
-
+% ─── RESULTADOS E DISCUSSÕES ─────────────────────────────────────────────────
 \section{Resultados e Discussões}
 
-
 \begin{frame}[b]{Resultados e Discussões}
-  \begin{itemize}
-    \item \parbox{0.60\textwidth}{O modelo atingiu 81\% de acurácia no treinamento e 62\% na validação}
-    \item \parbox{0.60\textwidth}{A classe 'normal' teve o melhor resultado, enquanto 'varroa' e 'asa deformada' apresentaram maior confusão devido à semelhança visual}
-    \item \parbox{0.60\textwidth}{os resultados indicam que a ferramenta tem potencial}
-
-  \end{itemize}
-  
+  \begin{columns}[T]
+    \begin{column}{0.55\textwidth}
+      \begin{itemize}
+        \item O modelo atingiu \textbf{81\%} de acurácia no treinamento e \textbf{62\%} na validação
+        \item A classe \textit{normal} teve o melhor resultado, enquanto \textit{varroa} e \textit{asa deformada} apresentaram maior confusão devido à semelhança visual
+        \item Os resultados indicam que a ferramenta tem potencial
+      \end{itemize}
+    \end{column}
+    \begin{column}{0.38\textwidth}
+      \begin{block}{\centering Acurácia do Modelo}
+        \centering
+        \vspace{0.4em}
+        {\Large\textbf{81\%}}\par
+        {\scriptsize Treinamento}\\[0.5em]
+        {\large\textbf{62\%}}\par
+        {\scriptsize Validação}
+        \vspace{0.4em}
+      \end{block}
+    \end{column}
+  \end{columns}
   \vfill
-  
 \end{frame}
 
-
-% Slide Informações Gerais (clone)
+% ─── SLIDE FINAL (original) ──────────────────────────────────────────────────
 {
 \usebackgroundtemplate{%
   \includegraphics[width=\paperwidth,height=\paperheight]{imgs/img_022.jpg}%
